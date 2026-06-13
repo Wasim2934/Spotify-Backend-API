@@ -1,5 +1,5 @@
 const JWT = require('jsonwebtoken')
-
+ 
 const authArtist = async (req, res, next) => {
 
     const token = req.cookies.token;

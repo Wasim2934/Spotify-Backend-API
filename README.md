@@ -2,7 +2,7 @@
 
 A production-style backend API for a Spotify-like music streaming platform built with **Node.js**, **Express.js**, and **MongoDB**.
 
-This project implements **Role-Based Authentication & Authorization** where:
+This project implements **Role-Based Authentication & Authorization** where: 
 
 - 👤 **Normal Users** can browse and listen to music.
 - 🎤 **Artists** can upload and manage their own music and albums.
